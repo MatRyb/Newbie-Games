@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9193a23d4a84d8488742300e01af118, type: 3}
+  m_Name: Note4
+  m_EditorClassIdentifier: 
+  text: "Dzie\u0144 4:\r\nBudz\u0105 mnie. Budz\u0105 mnie w ciemno\u015Bciach. Otwieram
+    oczy i widz\u0119 nad sob\u0105 t\u0119 ich po\u015Bwiat\u0119. Stoj\u0105. Czekaj\u0105.
+    Na moj\u0105 \u015Bmier\u0107. Czy chc\u0105 \u017Cebym do nich do\u0142\u0105czy\u0142?
+    Nienawidz\u0119 tych pustych sylwetek, mijaj\u0105cych mnie beznami\u0119tnie
+    gdy je mijam a przygl\u0105daj\u0105cych mi si\u0119 uwa\u017Cnie, gdy udaj\u0119,
+    \u017Ce \u015Bpi\u0119. Znalaz\u0142em strumie\u0144 wody. Mo\u017Ce by\u0142a
+    brudna, wypi\u0142em tak du\u017Co \u017Ce zwymiotowa\u0142em. Jest mi lepiej.
+    Na razie. Brakuje mi ju\u017C kartek.\r"

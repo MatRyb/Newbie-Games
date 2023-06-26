@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9193a23d4a84d8488742300e01af118, type: 3}
+  m_Name: Note3_5
+  m_EditorClassIdentifier: 
+  text: "November 9th, after midnight\r\n\r\nWe have a plan. I don\u2019t know if
+    it will work. But it can. I am so nervous. They seemed really calm and were very
+    nice to me, but probably they are scared to death. Emil did not ask any questions,
+    fortunately. Maybe he thought I was just having a \u201Cgood time\u201D with
+    the ladies\u2026 I do not know. And I do not care. I need to sleep now.\r"

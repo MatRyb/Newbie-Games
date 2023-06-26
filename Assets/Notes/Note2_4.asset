@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9193a23d4a84d8488742300e01af118, type: 3}
+  m_Name: Note2_4
+  m_EditorClassIdentifier: 
+  text: "6th of May AD 1148\r\n\r\nWe are leaving them behind. I hate myself for
+    that and I hope God will forgive us, but something strange has happened to them.
+    They are not themselves anymore. We cannot stay here forever and Daegel seems
+    to think just that. He does not sleep nor eat, just study the signs. I talked
+    to Conrad, in vain. He understands us, he does not know what Daegel is up to,
+    but he will not help us. Daegel does not even have the time to talk to his own
+    brother. We will leave today, in the sleep time. A lot of people will come with
+    us, I hope.\r"

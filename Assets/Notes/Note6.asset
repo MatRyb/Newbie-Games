@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9193a23d4a84d8488742300e01af118, type: 3}
+  m_Name: Note6
+  m_EditorClassIdentifier: 
+  text: "Dzie\u0144 6:\r\nTo koniec. Ziemia osun\u0119\u0142a si\u0119 pode mn\u0105
+    i spad\u0142em. Nie mog\u0119 ju\u017C i\u015B\u0107. Nie mam nawet si\u0142y
+    na to, by i\u015B\u0107. Jestem zm\u0119czony. Tak bardzo zm\u0119czony\u2026\r\nWybacz,
+    Alice.\r"

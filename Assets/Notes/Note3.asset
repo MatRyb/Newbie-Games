@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9193a23d4a84d8488742300e01af118, type: 3}
+  m_Name: Note3
+  m_EditorClassIdentifier: 
+  text: "Dzie\u0144 3:\r\nTak bardzo chce mi si\u0119 pi\u0107. Mia\u0142em ze sob\u0105
+    tylko jedn\u0105 butelk\u0119 wody kt\xF3r\u0105 dawno ju\u017C zostawi\u0142em
+    gdzie\u015B w ciemno\u015Bci. Gdzie\u015B musi by\u0107 strumie\u0144, co jaki\u015B
+    czas s\u0142ysz\u0119 szum wody w \u015Bcianach. Dobrze, \u017Ce przynajmniej
+    nie czuj\u0119 ju\u017C g\u0142odu. Znalaz\u0142em jakie\u015B skupisko tamtych,
+    co\u015B na kszta\u0142t ruin. Zniszczona wioska? Szuka\u0142em tam przez chwil\u0119
+    jakiej\u015B wskaz\xF3wki, sk\u0105d si\u0119 tam wzi\u0119li, ale to by\u0142o
+    bez sensu. Straci\u0142em tylko energi\u0119.\r"

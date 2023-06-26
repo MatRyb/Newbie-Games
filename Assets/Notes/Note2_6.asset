@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9193a23d4a84d8488742300e01af118, type: 3}
+  m_Name: Note2_6
+  m_EditorClassIdentifier: 
+  text: "Twentieth or twenty first sleep time since April 17th AD 1148\r\n\r\nWe
+    are slowly reaching them. Daegel does not want to force people too hard, so they
+    will have strength to take more food. We are strong. I can see fire in people\u2019s
+    eyes. We are strong. Regina had warned me that they would do something, but I
+    could not expect them to just leave us.\r\nLet us go.\r"

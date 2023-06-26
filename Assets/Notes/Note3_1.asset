@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9193a23d4a84d8488742300e01af118, type: 3}
+  m_Name: Note3_1
+  m_EditorClassIdentifier: 
+  text: "November 5th, evening\r\n\r\nHad a busy day and hoped for a little rest
+    for most of it, but now, when I have time for myself, I can't sleep. Father wanted
+    me to escort scouts to the exit and we met quite a lot of unpleasant events,
+    starting with landslide, to a blocked path which we had to uncover, and finally
+    some lost blind animals from the depths, which gravely wounded one of the scouts.
+    It was just too much for a single trip. Father says that's because the monster
+    is nervous. He knows something is going to happen.\r\nI can say I feel the same,
+    somehow.\r"

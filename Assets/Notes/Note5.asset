@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9193a23d4a84d8488742300e01af118, type: 3}
+  m_Name: Note5
+  m_EditorClassIdentifier: 
+  text: "Dzie\u0144 5:\r\nNapisy. Na \u015Bcianach widz\u0119 napisy. Dotar\u0142em
+    do jakiego\u015B nowego miejsca. Nie znam tego alfabetu, cho\u0107 wygl\u0105da
+    na to \u017Ce ma zwi\u0105zki z hebrajskim. Tamtych jest tutaj jakby mniej. Id\u0119
+    dalej, po drodze zostawiam ju\u017C stare notatki. Nie s\u0105 mi potrzebne.
+    Teraz wszystkie korytarze prowadz\u0105 w g\xF3r\u0119. Kt\xF3ry\u015B musi prowadzi\u0107
+    do wyj\u015Bcia, wiem to. Tajemne przej\u015Bcie do podziemi gotyckiej katedry,
+    tak to si\u0119 sko\u0144czy.\r"

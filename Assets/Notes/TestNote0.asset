@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9193a23d4a84d8488742300e01af118, type: 3}
+  m_Name: TestNote0
+  m_EditorClassIdentifier: 
+  text: "Sixteenth sleep time since April 17th AD 1148\r\n\r\nWe have stopped for
+    a rest. People are tired and not just because of wandering for many hours. Beatriz
+    told me earlier that she does not want to go on. I looked at her eyes in the
+    torch\u2019s light and without a word I took her bag. Daegal says that these
+    tunnels had to have some other purpose than mining and I believe him. People
+    are strifing farther in the chamber, I will go and see. I think they have found
+    something.\r"

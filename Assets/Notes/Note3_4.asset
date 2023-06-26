@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9193a23d4a84d8488742300e01af118, type: 3}
+  m_Name: Note3_4
+  m_EditorClassIdentifier: 
+  text: "November 8th, late night\r\n\r\nI have come up with an idea. I could try
+    to free them. It will not be easy. And my Father will despise me. But nobody
+    knows what will happen if we feed these poor women to the Monster. I have to
+    try and help them escape. I just need to think of a plan\u2026 I will meet them
+    tonight. Emil will let me through. With them, perhaps, it will be easier to think.\r"
